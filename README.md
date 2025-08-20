@@ -20,6 +20,7 @@ Minhas principais tecnologias incluem:
 
 * **Descrição:** Meu projeto de conclusão de curso, desenvolvido para um propósito específico.
 * **Tecnologias:** PHP, JavaScript, HTML, CSS
+* **Introdução:** Este trabalho trata-se de um projeto chamado Enaviar, que será desenvolvido com a ideia de melhorar a comunicação nas empresas e  o aproveitamento de tempo por seus funcionário, isso graças ao Enaviar que promete distanciar os funcionário das redes sociais e distrações no celular e focar no trabalho enquanto mexem em uma ferramenta com aparência familiar e de fácil compreendimento. O Enaviar irá rodar em um servido externo, assim o usuário não poderá se distrair com mensagens de outras pessoas e grupos que normalmente receberia além de proporcionar uma convivência maior entre os funcionários da empresa. Tendo em vista um mercado tão grande quanto o mercado de mensageiros instantâneos, o Enaviar buscar ser uma grande ajuda para empresas que veem o desempenho de seus funcionários cair cada vez mais
 
 ---
 
