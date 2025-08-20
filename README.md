@@ -1,4 +1,4 @@
-### Olá, eu sou Wellington Francis Souza Pontes 👋
+### Olá, eu sou Wellington Francisco Souza Pontes 👋
 
 Sou um desenvolvedor em formação com foco em **Backend**, apaixonado por tecnologia e em constante busca por novos desafios e aprendizados.
 
