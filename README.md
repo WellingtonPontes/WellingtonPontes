@@ -42,4 +42,4 @@ Busco projetos e oportunidades que me permitam crescer e me consolidar como um p
 
 [LinkedIn](https://www.linkedin.com/in/wellington-pontes-556402176/)
 
-[GitHub](SEU_LINK_DO_GITHUB)
+[GitHub](https://github.com/WellingtonPontes)
